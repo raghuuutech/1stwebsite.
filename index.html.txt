@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>mana first website anamata edi..!</title>
+</head>
+<body>
+  <h1>namasthe git-hub pages </h1>
+  <p>manam host chesthuna modati website anamata edi.</p>
+</body>
+</html>
